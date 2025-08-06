@@ -34,7 +34,5 @@ This repository contains my hands-on practice and experiments with **PyTorch**, 
 - NumPy
 - Basic datasets (custom-created and/or synthetic)
 
----
 
-Would you like me to also write a **commit message template** that you can follow while pushing updates to this repo? (Example: “Implemented basic classification model with 2-layer architecture”)?
 
